@@ -1,0 +1,3 @@
+20230521	14:15:34	a6141cbe-df04-40a0-9d59-278e9da3e46d	Error: ENOENT: no such file or directory, stat 'D:\ByteWise Tasks\ByteWise Task 12 Complete Node Js\Chapter 8 Routing in Express\routes\views\index.html'
+20230521	14:16:05	04338d8f-691c-4e0d-864e-00b8f0399ca4	Error: ENOENT: no such file or directory, stat 'D:\ByteWise Tasks\ByteWise Task 12 Complete Node Js\Chapter 8 Routing in Express\routes\views\index.html'
+20230521	14:57:50	2bc6ce22-6d90-41ca-b4c8-96aeff612868	TypeError: Cannot read properties of undefined (reading 'firstname')
